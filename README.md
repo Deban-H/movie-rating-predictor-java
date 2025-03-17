@@ -12,13 +12,13 @@ IMDB India Movies Dataset from Kaggle.
   - Genre average rating
 - Handles missing data and preprocessing
 
-## 🚀 How to Run
+## How to Run
 1. Clone the repository
 2. Import into IntelliJ as a Maven project
 3. Run `Main.java`
 4. Enter movie details and get predicted rating
 
-## 🛠️ Technologies
+## Technologies
 - Java
 - Maven
 - OpenCSV
