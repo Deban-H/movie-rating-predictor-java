@@ -2,11 +2,11 @@
 
 # Movie Rating Predictor 
 
-This project is a simple **Movie Rating Prediction** system developed in **Java**. The goal is to predict movie ratings based on factors such as **director**, **movie name**, **genre**, and **release year**, using a dataset of movies.
+This project is a simple **Movie Rating Prediction** system developed in **Java**. The goal is to predict movie ratings based on factors such as director, movie name, genre, and release year, using a dataset of movies.
 
 ---
 
-## Features In this program
+## Features in this project
 
 - Predicts movie ratings using:
   - **Director's average movie rating**
