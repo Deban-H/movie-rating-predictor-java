@@ -2,7 +2,7 @@
 
 # Movie Rating Predictor 
 
-This project is a simple **Movie Rating Prediction** system developed in **Java**. The goal is to predict movie ratings based on factors such as **director**, **movie name**, **genre**, and **release year**, using a dataset of Indian movies.
+This project is a simple **Movie Rating Prediction** system developed in **Java**. The goal is to predict movie ratings based on factors such as **director**, **movie name**, **genre**, and **release year**, using a dataset of movies.
 
 It’s designed as a beginner-friendly machine learning project without external libraries—just core Java!
 
