@@ -62,7 +62,7 @@ git clone https://github.com/Deban-H/movie-rating-predictor-java.git
 - Open **IntelliJ IDEA**, **Eclipse**, or any IDE you prefer.
 - Open the `MovieRatingPredictor` folder as a project.
 
-### 3. Add the CSV Dataset
+### 3. Add CSV Dataset
 - Place `movies.csv` file inside the `/data/` folder.
 
 ### 4. Run the code
@@ -91,11 +91,15 @@ System.out.println("Predicted rating: " + rating);
 ```
 ![Prediction Example]  ![Screenshot 2025-03-18 203055](https://github.com/user-attachments/assets/7fad4ec7-efab-4e7c-8afb-6d4858134434)
 Screenshot 2025-03-18 203055.png
-
+It is uploaded in the files section
 ```
+---
+## Project Structure And Output Of My Program In IDE
+---
+Screenshot 2025-03-18 203115.png
+it is uploaded along side with all the files
 
 ---
-
 ##  License
 This project is open-source and available under the **MIT License**.
 
