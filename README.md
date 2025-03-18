@@ -58,7 +58,7 @@ MovieRatingPredictor/
 git clone https://github.com/Deban-H/movie-rating-predictor-java.git
 ```
 
-### 2. Open in your IDE
+### 2. Open in IDE
 - Open **IntelliJ IDEA**, **Eclipse**, or any IDE you prefer.
 - Open the `MovieRatingPredictor` folder as a project.
 
