@@ -55,7 +55,7 @@ MovieRatingPredictor/
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/Deban_H/movie-rating-predictor-java.git
+git clone https://github.com/Deban-H/movie-rating-predictor-java.git
 ```
 
 ### 2. Open in your IDE
