@@ -78,7 +78,7 @@ System.out.println("Predicted rating: " + rating);
 
 ---
 
-## How It Works
+## Working principle
 - The program reads the dataset and processes each movie.
 - It calculates:
   - The director's success rate (average rating of their past movies).
@@ -103,5 +103,5 @@ This project is open-source and available under the **MIT License**.
 
 
 ##  Acknowledgments
-- Dataset: Kaggle (IMDb India Movies)
+Dataset: Kaggle (IMDb India Movies)
   
