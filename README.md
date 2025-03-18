@@ -87,11 +87,12 @@ System.out.println("Predicted rating: " + rating);
 
 ## Example Output
 ```
-![Prediction Example]  ![Screenshot 2025-03-18 203055](https://raw.githubusercontent.com/Deban-H/movie-rating-predictor-java/refs/heads/main/Screenshot%202025-03-18%20203055.png)
-Screenshot 2025-03-18 203055.png
+(https://raw.githubusercontent.com/Deban-H/movie-rating-predictor-java/refs/heads/main/Screenshot%202025-03-18%20203055.png)
 
 ```
+![Prediction Example]  ![Screenshot 2025-03-18 203055]
 It is uploaded in the files section
+Screenshot 2025-03-18 203055.png
 
 ---
 ## Project Structure And Output Of My Program In IDE
