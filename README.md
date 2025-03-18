@@ -87,7 +87,7 @@ System.out.println("Predicted rating: " + rating);
 
 ## Example Output
 ```
-(https://raw.githubusercontent.com/Deban-H/movie-rating-predictor-java/refs/heads/main/Screenshot%202025-03-18%20203055.png)
+https://raw.githubusercontent.com/Deban-H/movie-rating-predictor-java/refs/heads/main/Screenshot%202025-03-18%20203055.png
 
 ```
 ![Prediction Example] It is uploaded in the files section. This image shows the output.
