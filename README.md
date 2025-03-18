@@ -89,7 +89,8 @@ System.out.println("Predicted rating: " + rating);
 
 ## Example Output
 ```
-![Prediction Example]  ![Screenshot 2025-03-18 203055](https://github.com/user-attachments/assets/33c6d125-c7ea-436d-98ec-3374357acd11)
+![Prediction Example]  ![Screenshot 2025-03-18 203055](https://github.com/user-attachments/assets/7fad4ec7-efab-4e7c-8afb-6d4858134434)
+
 
 ```
 
