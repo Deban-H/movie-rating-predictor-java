@@ -6,7 +6,7 @@ This project is a simple **Movie Rating Prediction** system developed in **Java*
 
 ---
 
-## Features
+## Features In this program
 
 - Predicts movie ratings using:
   - **Director's average movie rating**
@@ -17,7 +17,7 @@ This project is a simple **Movie Rating Prediction** system developed in **Java*
 
 ---
 
-## Project Structure
+## My Project Structure
 
 ```
 MovieRatingPredictor/
