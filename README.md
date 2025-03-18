@@ -1,6 +1,6 @@
 ---
 
-# Movie Rating Predictor 🎬⭐
+# Movie Rating Predictor 
 
 This project is a simple **Movie Rating Prediction** system developed in **Java**. The goal is to predict movie ratings based on factors such as **director**, **movie name**, **genre**, and **release year**, using a dataset of Indian movies.
 
@@ -8,7 +8,7 @@ It’s designed as a beginner-friendly machine learning project without external
 
 ---
 
-## ⭐ Features
+## Features
 
 - Predicts movie ratings using:
   - **Director's average movie rating**
@@ -19,7 +19,7 @@ It’s designed as a beginner-friendly machine learning project without external
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 
 ```
 MovieRatingPredictor/
@@ -35,7 +35,7 @@ MovieRatingPredictor/
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 - **Source**: [IMDb India Movies Dataset](https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies)
 - File: `movies.csv`
