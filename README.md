@@ -89,7 +89,7 @@ System.out.println("Predicted rating: " + rating);
 
 ## Example Output
 ```
-
+![Prediction Example]Screenshot 2025-03-18 203055.png
 ```
 
 ---
