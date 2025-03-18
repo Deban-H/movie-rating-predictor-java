@@ -55,7 +55,7 @@ MovieRatingPredictor/
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/yourusername/MovieRatingPredictor.git
+git clone https://github.com/Deban_H/MovieRatingPredictor.git
 ```
 
 ### 2. Open in your IDE
