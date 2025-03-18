@@ -51,19 +51,19 @@ MovieRatingPredictor/
 
 ## How to Run the Project
 
-### 1. Clone the repository
+### STEP-1. Clone the repository
 ```
 git clone https://github.com/Deban-H/movie-rating-predictor-java.git
 ```
 
-### 2. Open in IDE
+### STEP-2. Open in IDE
 - Open **IntelliJ IDEA**, **Eclipse**, or any IDE you prefer.
 - Open the `MovieRatingPredictor` folder as a project.
 
-### 3. Add CSV Dataset
+### STEP-3. Add CSV Dataset
 - Place `movies.csv` file inside the `/data/` folder.
 
-### 4. Run the code
+### STEP-4. Run the code
 - Compile and run `MoviePredictor.java`
 - The code will load the dataset and allow to predict ratings.
 
